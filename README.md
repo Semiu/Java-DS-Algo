@@ -1,2 +1,1 @@
-# Java-DS-Algo
-Code playing ground (personal solutions) to exercises in Michael et. al's Data Structures and Algorithms in Java.
+This would be my personal solutions to the chapter-by-chap[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cael T. G., Roberto, T., and Michael, H. G. (2014). Data Structures and Algorithms in Java, Sixth Edition. Wiley. USA.
